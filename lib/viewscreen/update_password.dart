@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:lesson3/model/constant.dart';
-import 'package:lesson3/utils/theme_constants.dart';
+import 'package:lesson3/model/theme_constants.dart';
 import 'package:lesson3/viewscreen/signin_screen.dart';
 import 'package:lesson3/viewscreen/view/mydailog.dart';
 

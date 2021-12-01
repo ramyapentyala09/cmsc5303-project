@@ -4,7 +4,7 @@ import 'package:lesson3/controller/firebaseauth_controller.dart';
 import 'package:lesson3/controller/firestore_controller.dart';
 import 'package:lesson3/model/appuser.dart';
 import 'package:lesson3/model/constant.dart';
-import 'package:lesson3/utils/theme_constants.dart';
+import 'package:lesson3/model/theme_constants.dart';
 import 'package:lesson3/viewscreen/view/mydailog.dart';
 
 class SignUpScreen extends StatefulWidget {

@@ -14,7 +14,7 @@ import 'package:lesson3/model/constant.dart';
 import 'package:lesson3/model/photomemo.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:lesson3/model/rating.dart';
-import 'package:lesson3/utils/theme_constants.dart';
+import 'package:lesson3/model/theme_constants.dart';
 import 'package:lesson3/viewscreen/view/mydailog.dart';
 import 'package:lesson3/viewscreen/view/webimage.dart';
 import 'package:image_picker/image_picker.dart';
