@@ -475,7 +475,6 @@ class _DetailedViewState extends State<DetailedViewScreen> {
       ),
     );
   }
-
   Widget _buildRatingValue(BuildContext context) {
     return GestureDetector(
       onTap: () {

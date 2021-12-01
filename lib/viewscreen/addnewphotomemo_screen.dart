@@ -294,9 +294,8 @@ class _Controller {
           });
         },
       );
-
       // get image labels by ML
-
+      
       List<String> imageLabels =
           await GoogleMLController.getImageLabels(photo: state.photo!);
       String imageText =
