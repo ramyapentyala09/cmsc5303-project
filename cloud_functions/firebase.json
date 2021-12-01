@@ -1,0 +1,10 @@
+{
+  "functions": {
+    
+  },
+  "emulators": {
+    "firestore": {
+      "port": "5002"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407157515507",
+    "project_id": "cs5303-ramyap-lesson3",
+    "storage_bucket": "cs5303-ramyap-lesson3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407157515507:android:510571a85d80298a814386",
+        "android_client_info": {
+          "package_name": "edu.uco.rpentyala.cmsc5303.lesson3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407157515507-gqebu0nqrneop651rhrc893fqto6j1js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCSFQClv6aje-KP3F3-RP19t4G-bKdkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407157515507-gqebu0nqrneop651rhrc893fqto6j1js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
